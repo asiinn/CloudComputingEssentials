@@ -1,0 +1,53 @@
+# SOFTWARE DEVELOPEMENT LIFE CYCLE
+- Requrement Analysis
+- Design
+- Environment setup
+- Development
+- Testing
+- Deoloyment
+- Maintenance
+
+# SYSTEM ARCHITECTURE
+- Shell
+- Operating System
+- Kernel
+- Hardware
+
+# COMMANDS
+- pwd
+- ls 
+- ls -all
+- ls -l
+- clear
+- echo "content"
+- echo -e "This\nis\ncloud"
+- history
+- mkdir foldername
+- mkdir folder_{1..10}
+- rmdir foldername
+- rmdir folder_{1..10}
+- cd filename
+- cd ..
+- touch filename
+- nano filename
+- rm filename
+- ping
+- cp source_destination target destination
+- mv source_destination target destination
+- mv oldname newname
+- cat
+- head
+- tail
+- rm -rf filename
+- man
+- sed -n '5,10p' path/of/the/file
+- &&
+- grep
+- grep -n
+- grep -i
+- grep -c
+- grep -e
+- <
+- >
+- |
+- chmod 000 file/foldername
